@@ -23,7 +23,8 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 
 #💻 Languages and Tools...
 
-[<img align="left" alt="Java" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"/>](https://www.java.com/en/)
+[<img align="left" alt="Java" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"/>](https://www.java.com/en/)
+[<img align="left" alt="Java" width="26px" src="[<img align="left" alt="Java" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"/>](https://www.python.org)
 <!---
 Suyog0516/Suyog0516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
