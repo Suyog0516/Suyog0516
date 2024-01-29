@@ -13,7 +13,7 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 - 🌱 I’m currently learning Automation Testing & Tools
 - 💻 I’m looking to collaborate on Java, Python Projects and Automation Testing
 
-#📫 How to reach me...
+#📫 How to Connect with me...
 
 [<img align="left" alt="# | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/suyog-gadhave-b7424b248/)
 [<img align="left" alt="#" width="115px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/gadhave_suyog/)
@@ -27,7 +27,7 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 [<img align="left" alt="Python" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"/>](https://www.python.org)
 [<img align="left" alt="Rest Assured" width="40px" src="https://rest-assured.io/img/logo-transparent.png"/>](https://rest-assured.io/)
 [<img align="left" alt="Rest Assured" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"/>](https://robotframework.org/)
-
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
 <!---
 Suyog0516/Suyog0516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
