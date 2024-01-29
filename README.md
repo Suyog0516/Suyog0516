@@ -15,8 +15,8 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 
 #📫 How to Connect with me...
 
-[<img align="left" alt="# | LinkedIn" width="100px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>](https://www.linkedin.com/in/suyog-gadhave-b7424b248/)
-[<img align="left" alt="#" width="115px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" />](https://www.instagram.com/gadhave_suyog/)
+[<img align="left" alt="# | LinkedIn" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>](https://www.linkedin.com/in/suyog-gadhave-b7424b248/)
+[<img align="left" alt="#" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" />](https://www.instagram.com/gadhave_suyog/)
 
 <br />
 <br />
