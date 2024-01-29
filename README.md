@@ -26,6 +26,7 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 [<img align="left" alt="Java" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg"/>](https://www.java.com/en/)
 [<img align="left" alt="Python" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"/>](https://www.python.org)
 [<img align="left" alt="Rest Assured" width="40px" src="https://rest-assured.io/img/logo-transparent.png"/>](https://rest-assured.io/)
+[<img align="left" alt="Rest Assured" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"/>](https://robotframework.org/)
 
 
 <!---
