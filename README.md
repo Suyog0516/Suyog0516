@@ -13,7 +13,7 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 - 🌱 I’m currently learning Automation Testing & Tools
 - 💻 I’m looking to collaborate on Java, Python Projects and Automation Testing
 
-#📫 How to Connect with me...
+#📫 Connect with me...
 
 [<img align="left" alt="# | LinkedIn" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>](https://www.linkedin.com/in/suyog-gadhave-b7424b248/)
 [<img align="left" alt="#" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" />](https://www.instagram.com/gadhave_suyog/)
@@ -37,6 +37,23 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 [<img align="left" alt="Figma" width="40px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" />](https://www.figma.com/)
+
+<br />
+<br />
+
+## Profile Trophies :trophy:
+<details>
+<summary>Click to Expand!</summary>
+![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=Suyog0516&theme=radical)
+</details>
+<br/>
+</a>
+</details>
+<a align= "center" href="https://github.com/Suyog0516">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Suyog0516&theme=radical">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Suyog0516&count_private=true&theme=radical&show_icons=true" />
 
 <!---
 Suyog0516/Suyog0516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
