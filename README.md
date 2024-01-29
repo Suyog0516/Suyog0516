@@ -17,6 +17,7 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 
 [<img align="left" alt="# | LinkedIn" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>](https://www.linkedin.com/in/suyog-gadhave-b7424b248/)
 [<img align="left" alt="#" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" />](https://www.instagram.com/gadhave_suyog/)
+[<img align="left" alt="#" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" />](gadhavesuyog@gmail.com/)
 
 <br />
 <br />
