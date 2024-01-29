@@ -41,14 +41,7 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 <br />
 <br />
 
-## Profile Trophies :trophy:
-<details>
-<summary>Click to Expand!</summary>
-![ProfileTrophy](https://github-profile-trophy.vercel.app/?username=satishmane-sam&theme=radical)
-</details>
-<br/>
-</a>
-</details>
+## Profile 👀🎩
 <a align= "center" href="https://github.com/Suyog0516">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Suyog0516&theme=radical">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
