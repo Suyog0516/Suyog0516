@@ -15,7 +15,7 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 
 #📫 How to reach me...
 
-[<img align="left" alt="# | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[linkedin](https://www.linkedin.com/in/suyog-gadhave-b7424b248/)]
+[<img align="left" alt="# | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin (https://www.linkedin.com/in/suyog-gadhave-b7424b248/)]
 
 <!---
 Suyog0516/Suyog0516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
