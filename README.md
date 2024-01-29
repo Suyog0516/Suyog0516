@@ -20,7 +20,6 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 
 <br />
 <br />
-<br />
 
 #💻 Languages and Tools...
 
