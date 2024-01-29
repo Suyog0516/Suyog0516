@@ -28,7 +28,9 @@ Quality Engineer Intern at RedHat | BSc Computer Science Graduate | Proficient i
 [<img align="left" alt="Rest Assured" width="40px" src="https://rest-assured.io/img/logo-transparent.png"/>](https://rest-assured.io/)
 [<img align="left" alt="Rest Assured" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"/>](https://robotframework.org/)
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-
+<br />
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
+[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/html/)
 <!---
 Suyog0516/Suyog0516 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
